@@ -1,1 +1,1 @@
-include ':app', ':p0241twoactivitystate'
+include ':app', ':p0241twoactivitystate', ':p0261intentfilter'
