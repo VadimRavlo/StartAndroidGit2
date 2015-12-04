@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0271getintentaction/p0271getintentaction.iml" filepath="$PROJECT_DIR$/p0271getintentaction/p0271getintentaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" filepath="$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0301activiteresult/p0301activiteresult.iml" filepath="$PROJECT_DIR$/p0301activiteresult/p0301activiteresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" filepath="$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" />
     </modules>
   </component>
 </project>
