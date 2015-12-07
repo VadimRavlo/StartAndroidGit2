@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" filepath="$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0301activiteresult/p0301activiteresult.iml" filepath="$PROJECT_DIR$/p0301activiteresult/p0301activiteresult.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" filepath="$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" filepath="$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" />
     </modules>
   </component>
 </project>
