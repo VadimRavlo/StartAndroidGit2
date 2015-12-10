@@ -1,1 +1,1 @@
-include ':app', ':p0241twoactivitystate', ':p0261intentfilter', ':p0271getintentaction', ':p0281intentextras', ':p0291simpleactivityresult', ':p0301activiteresult', ':p0321simplebrowser', ':p0331sharedpreferences'
+include ':app', ':p0241twoactivitystate', ':p0261intentfilter', ':p0271getintentaction', ':p0281intentextras', ':p0291simpleactivityresult', ':p0301activiteresult', ':p0321simplebrowser', ':p0331sharedpreferences', ':p0341simplesqlite'

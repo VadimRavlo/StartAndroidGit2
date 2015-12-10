@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/p0301activiteresult" />
             <option value="$PROJECT_DIR$/p0321simplebrowser" />
             <option value="$PROJECT_DIR$/p0331sharedpreferences" />
+            <option value="$PROJECT_DIR$/p0341simplesqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
