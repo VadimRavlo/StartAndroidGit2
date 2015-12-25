@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0381sqlitetransaction/p0381sqlitetransaction.iml" filepath="$PROJECT_DIR$/p0381sqlitetransaction/p0381sqlitetransaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0391sqliteonupgradedb/p0391sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/p0391sqliteonupgradedb/p0391sqliteonupgradedb.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" filepath="$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" />
     </modules>
   </component>
 </project>
