@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" filepath="$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0421simplelist/p0421simplelist.iml" filepath="$PROJECT_DIR$/p0421simplelist/p0421simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0431simplelistchoice/p0431simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431simplelistchoice/p0431simplelistchoice.iml" />
     </modules>
   </component>
 </project>
